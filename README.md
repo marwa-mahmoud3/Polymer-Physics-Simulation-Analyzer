@@ -1,4 +1,4 @@
-# Polymer Physics Simulation Analyzer: A Case Study 🧬
+# 🧬 Polymer Physics Simulation Analyzer: A Case Study 
 
 ## 📌 Project Overview
 This project presents a high-performance **data analysis framework** developed to quantify the mechanical and elastic properties of nano-scale biopolymers. It was engineered as a core component of the **Master Laboratory Applied Physics** curriculum at the **University of Freiburg**.
@@ -6,6 +6,9 @@ This project presents a high-performance **data analysis framework** developed t
 The framework serves as a bridge between raw **Molecular Dynamics (MD)** outputs and theoretical biophysics, providing a robust environment for investigating entropic elasticity in DNA and proteins.
 
 **Engineering Impact:** Designed a **vectorized NumPy architecture** that replaced standard iterative processing, reducing computational overhead by **95%** when analyzing datasets with millions of timesteps.
+
+
+<img width="1600" height="900" alt="Cat Before Coffee After Coffee Two Photos And Text Meme" src="https://github.com/user-attachments/assets/5f78044a-23a2-4b31-88a3-4168748e2dca" />
 
 ---
 
