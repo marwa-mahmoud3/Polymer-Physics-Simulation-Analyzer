@@ -1,5 +1,18 @@
 # 🧬 Polymer Physics Simulation Analyzer: A Case Study 
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/marwa-mahmoud123">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://marwa-mahmoud-sw-eng.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:marwa.sw.eng@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
 ## 📌 Project Overview
 This project presents a high-performance **data analysis framework** developed to quantify the mechanical and elastic properties of nano-scale biopolymers. It was engineered as a core component of the **Master Laboratory Applied Physics** curriculum at the **University of Freiburg**.
 
@@ -7,9 +20,9 @@ The framework serves as a bridge between raw **Molecular Dynamics (MD)** outputs
 
 **Engineering Impact:** Designed a **vectorized NumPy architecture** that replaced standard iterative processing, reducing computational overhead by **95%** when analyzing datasets with millions of timesteps.
 
-
-<img width="1600" height="900" alt="Cat Before Coffee After Coffee Two Photos And Text Meme" src="https://github.com/user-attachments/assets/5f78044a-23a2-4b31-88a3-4168748e2dca" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f78044a-23a2-4b31-88a3-4168748e2dca" alt="Project Overview" width="900">
+</p>
 ---
 
 **Key Context:**
