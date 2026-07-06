@@ -59,8 +59,14 @@ Implemented a custom-buffered parser in `lab.py` to ingest and clean atomic coor
 3.  **Synthesis:** `prob_dist_calculate()` – Reduces millions of data points into statistical distributions for physics-based interpretation.
 
 ---
-**Prepared by:**
-**Marwa Mahmoud Mohamed**
-* **Email:** marwa.sw.eng@outlook.com
-* **LinkedIn:** [marwa-mahmoud123](https://www.linkedin.com/in/marwa-mahmoud123)
-* **Portfolio:** [marwa-mahmoud-sw-eng.vercel.app](https://marwa-mahmoud-sw-eng.vercel.app/)
+
+## 👤 Contact Information
+
+**Name:** Marwa Mahmoud El-Khatib
+
+**Email:** [marwa.m.elkhatib@outlook.com](mailto:marwa.m.elkhatib@outlook.com)
+
+**Connect with me:**
+
+- LinkedIn: [marwa-mahmoud-elkhatib](https://www.linkedin.com/in/marwa-mahmoud-elkhatib)
+- Portfolio: [marwa-mahmoud-elkhatib.vercel.app](https://marwa-mahmoud-elkhatib.vercel.app/)
